@@ -50,16 +50,3 @@ def creates a function. Parameters receive inputs, and return sends a result bac
 ### 10_read_and_write_file.py — File handling
 open() accesses a file. 'w' writes and 'r' reads. The with statement closes the file safely.
 **Practice:** Add a third line to notes.txt, then run the program again and read it.
-
-## Suggested teaching approach
-- First, demonstrate the script without changing it.
-- Ask students to predict what it will display.
-- Run it and compare the result with their prediction.
-- Change one line at a time and run it again.
-- Let students complete the practice task independently.
-
-## Important beginner ideas
-- Python runs instructions from top to bottom, except where conditions, loops, and functions change the flow.
-- Indentation matters: lines inside an `if`, loop, or function must be indented consistently.
-- Text values need quotes; variable names do not.
-- Read error messages carefully. They often point to the line that needs attention.
